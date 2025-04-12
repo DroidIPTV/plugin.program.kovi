@@ -1,45 +1,18 @@
 <builds>  
  <build>
- <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>2.2</version>
- <url>https://influ-encer.in/Jokertv2.zip</url>
- <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
- <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
- <description>JokerTV Kodi Installer. Unser Kodi Installer ist vollständig kostenfrei, aber es gelten einige grundlegende Dinge:
-Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung für jegliche Schäden, Inhalte, Verfügbarkeit oder Zuverlässigkeit. Wir übernehmen außerdem keine Verantwortung und können ihnen keine Zusicherungen geben. Wir übernehmen keine Haftung für Inhalte, welche von Nutzern in die Build eingetragen wurde oder welche auf Websites Dritter verweisen oder befinden. Sofern rechtswidrige Inhalte auf unserer Website zu finden sind, so bitten wir den Rechteinhaber, diese schnellstmöglich per Email uns mitzuteilen!
-
-  Updated 01/10/24</description>
-</build>
- <build>
- <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>1.2</version>
- <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
- <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
- <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
- <description>Vendetta Kodi Installer. Updated 15/04/24</description>
- </build>
- <build>
- <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>1.2</version>
- <url>https://archive.org/download/medusa_build/Medusa.zip</url>
- <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
- <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
- <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
-</build>
- <build>
- <name>[COLOR orange]18+ Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR aquamarine]KOVI 21.x Omega Plus Build[COLOR] - ([COLOR lime]online[COLOR])</name>
  <version>1.0</version>
- <url>https://influ-encer.in/18.zip</url>
- <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
- <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
- <description>JokerTV Kodi Installer. Release date: 01/11/24</description>
- </build>
+ <url>https://tvisi/koviv211b20.zip</url>
+ <icon>http://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.png</icon>
+ <fanart>http://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
+ <description>KOVI 19.x Matrix Setup Assistent für das KOVI Plus Build</description>
+</build>
  <build>
- <name>[COLOR purple]Sport Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>1.1</version>
- <url>https://influ-encer.in/Sport.zip</url>
- <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
- <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
- <description>JokerTV Kodi Installer. Release date: 15/12/24</description>
+ <name>[COLOR aquamarine]KOVI 19.x Matrix Plus Build[COLOR] - ([COLOR lime]online[COLOR])</name>
+ <version>1.2</version>
+ <url>https://archive.org/download/plugin.program.kovi_build/build.zip</url>
+ <icon>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.jpg</icon>
+ <fanart>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
+ <description>KOVI 19.x Matrix Setup Assistent für das KOVI Plus Build </description>
  </build>
 </builds>

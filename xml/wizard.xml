@@ -3,16 +3,16 @@
  <name>[COLOR aquamarine]KOVI 21.x Omega Plus Build[COLOR] - ([COLOR lime]online[COLOR])</name>
  <version>1.0</version>
  <url>https://tvisi/koviv211b20.zip</url>
- <icon>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.png</icon>
- <fanart>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
+ <icon>https://raw.githubusercontent.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.png/icon>
+ <fanart>https://raw.githubusercontent.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
  <description>KOVI 19.x Matrix Setup Assistent für das KOVI Plus Build</description>
 </build>
  <build>
  <name>[COLOR aquamarine]KOVI 19.x Matrix Plus Build[COLOR] - ([COLOR lime]online[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/plugin.program.kovi_build/build.zip</url>
- <icon>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.jpg</icon>
- <fanart>https://github.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
+ <icon>https://raw.githubusercontent.com/DroidIPTV/plugin.program.kovi/refs/heads/main/icon.jpg</icon>
+ <fanart>https://raw.githubusercontent.com/DroidIPTV/plugin.program.kovi/refs/heads/main/fanart.jpg</fanart>
  <description>KOVI 19.x Matrix Setup Assistent für das KOVI Plus Build </description>
  </build>
 </builds>

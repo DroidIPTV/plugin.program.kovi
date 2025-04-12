@@ -1,13 +1,12 @@
 31
 |||
-Added Sport Edition 1.1
+KOVI 21.1 Onega Mediacenter 
 
-[B]Release:[/B]
+[B] Update v. 01.05.25:[/B]
 
-JokerTV Kodi Edition 2.2 (Online)
-- Favorit Addons fixed
+KOVI Omega Build 2.2 
+- PVR IPTV Client Plugin
 - Vavoo Update Version
-- New Skin Optimitation
-- JokerTV Live Section added
+- optimierte Version für streaming devices
 
-[B]*****15/12/24*****[/B]
+[B]✅ ONLINE [/B]
